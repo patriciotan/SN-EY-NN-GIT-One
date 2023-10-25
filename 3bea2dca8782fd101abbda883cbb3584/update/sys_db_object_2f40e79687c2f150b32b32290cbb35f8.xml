@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>My Table 01</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_eyan_git_one_my_table_01</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan.01@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-25 10:30:01</sys_created_on>
+        <sys_id>2f40e79687c2f150b32b32290cbb35f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Table 01</sys_name>
+        <sys_package display_value="GIT One" source="x_eyan_git_one">3bea2dca8782fd101abbda883cbb3584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT One">3bea2dca8782fd101abbda883cbb3584</sys_scope>
+        <sys_update_name>sys_db_object_2f40e79687c2f150b32b32290cbb35f8</sys_update_name>
+        <sys_updated_by>sean.patrick.t.tan.01@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-25 10:30:01</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_eyan_git_one.my_table_01_user" name="x_eyan_git_one.my_table_01_user">e9a06f9687c2f150b32b32290cbb351c</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

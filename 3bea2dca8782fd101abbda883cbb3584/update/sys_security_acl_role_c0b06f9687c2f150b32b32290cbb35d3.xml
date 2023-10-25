@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan.01@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-25 10:30:07</sys_created_on>
+        <sys_id>c0b06f9687c2f150b32b32290cbb35d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_eyan_git_one_my_table_01.x_eyan_git_one.my_table_01_user</sys_name>
+        <sys_package display_value="GIT One" source="x_eyan_git_one">3bea2dca8782fd101abbda883cbb3584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT One">3bea2dca8782fd101abbda883cbb3584</sys_scope>
+        <sys_security_acl display_value="x_eyan_git_one_my_table_01">03a06f9687c2f150b32b32290cbb35cc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c0b06f9687c2f150b32b32290cbb35d3</sys_update_name>
+        <sys_updated_by>sean.patrick.t.tan.01@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-25 10:30:07</sys_updated_on>
+        <sys_user_role display_value="x_eyan_git_one.my_table_01_user" name="x_eyan_git_one.my_table_01_user">e9a06f9687c2f150b32b32290cbb351c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
