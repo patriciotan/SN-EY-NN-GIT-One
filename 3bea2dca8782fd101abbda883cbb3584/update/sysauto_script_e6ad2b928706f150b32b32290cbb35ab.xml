@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <max_drift/>
+        <name>myScheduledJob_02</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Sean Patrick Tan 01">aabc4f5a878631501abbda883cbb35d8</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-10-25 11:26:48</run_start>
+        <run_time>1969-12-31 16:00:00</run_time>
+        <run_type>on_demand</run_type>
+        <script><![CDATA[// added by KRE 1025 1927]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan.01@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-25 11:27:13</sys_created_on>
+        <sys_id>e6ad2b928706f150b32b32290cbb35ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>myScheduledJob_02</sys_name>
+        <sys_package display_value="GIT One" source="x_eyan_git_one">3bea2dca8782fd101abbda883cbb3584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GIT One">3bea2dca8782fd101abbda883cbb3584</sys_scope>
+        <sys_update_name>sysauto_script_e6ad2b928706f150b32b32290cbb35ab</sys_update_name>
+        <sys_updated_by>sean.patrick.t.tan.01@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-25 11:27:13</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

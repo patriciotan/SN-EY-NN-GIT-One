@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2f40e79687c2f150b32b32290cbb35f8" label="My Table 01" max_length="40" name="x_eyan_git_one_my_table_01" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

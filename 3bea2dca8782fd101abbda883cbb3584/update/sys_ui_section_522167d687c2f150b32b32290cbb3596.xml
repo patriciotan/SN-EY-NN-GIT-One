@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="522167d687c2f150b32b32290cbb3596" sys_domain="global" table="x_eyan_git_one_my_table_01" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>sean.patrick.t.tan.01@gds.ey.com</sys_created_by>
+            <sys_created_on>2023-10-25 10:32:11</sys_created_on>
+            <sys_id>e221a7d687c2f150b32b32290cbb3526</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eyan_git_one_my_table_01" sys_domain="global" view="Default view">522167d687c2f150b32b32290cbb3596</sys_ui_section>
+            <sys_updated_by>sean.patrick.t.tan.01@gds.ey.com</sys_updated_by>
+            <sys_updated_on>2023-10-25 10:32:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_eyan_git_one_my_table_01</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>sean.patrick.t.tan.01@gds.ey.com</sys_created_by>
+            <sys_created_on>2023-10-25 10:32:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>522167d687c2f150b32b32290cbb3596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_eyan_git_one_my_table_01</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GIT One" source="x_eyan_git_one">3bea2dca8782fd101abbda883cbb3584</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GIT One">3bea2dca8782fd101abbda883cbb3584</sys_scope>
+            <sys_update_name>sys_ui_section_522167d687c2f150b32b32290cbb3596</sys_update_name>
+            <sys_updated_by>sean.patrick.t.tan.01@gds.ey.com</sys_updated_by>
+            <sys_updated_on>2023-10-25 10:32:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
