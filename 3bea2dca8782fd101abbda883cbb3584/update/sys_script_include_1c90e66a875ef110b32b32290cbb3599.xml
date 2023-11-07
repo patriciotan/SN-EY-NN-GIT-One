@@ -11,6 +11,7 @@
 myScriptInclude_03.prototype = {
     initialize: function() {
 		// added by SPT 1107 1644
+		// added by SPT 20231107 2147
     },
 
     type: 'myScriptInclude_03'
@@ -19,13 +20,13 @@ myScriptInclude_03.prototype = {
         <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
         <sys_created_on>2023-11-07 10:44:09</sys_created_on>
         <sys_id>1c90e66a875ef110b32b32290cbb3599</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>myScriptInclude_03</sys_name>
         <sys_package display_value="GIT One" source="x_eyan_git_one">3bea2dca8782fd101abbda883cbb3584</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="GIT One">3bea2dca8782fd101abbda883cbb3584</sys_scope>
         <sys_update_name>sys_script_include_1c90e66a875ef110b32b32290cbb3599</sys_update_name>
         <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
-        <sys_updated_on>2023-11-07 10:44:09</sys_updated_on>
+        <sys_updated_on>2023-11-07 13:47:51</sys_updated_on>
     </sys_script_include>
 </record_update>
